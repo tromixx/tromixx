@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tomiwebsites.com/resume/](https://tomiwebsites.com/resume/)
 
-- ⚡ Fun fact **I was a professional tennis player ATP 1000 on the world, and a D1 collage player**
+- ⚡ Fun fact **I was a professional ATP tennis player best rank 1000 worldwide, and a D1 college player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
