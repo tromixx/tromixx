@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working at **Alaska Airlines**
 
+- 🔭 Some of my latest roles where **Senior Software Engineer, Lead Developer, and Architect**
+
 - 👨‍💻 All of my projects are available at [https://tomiwebsites.com/resume/](https://tomiwebsites.com/resume/)
 
-- ⚡ Fun fact **I was a D1 tennis player and previous to that, a professional ATP tennis player best rank 1000 worldwide.**
+- ⚡ Fun fact **I was a D1 tennis player and previous to that, a professional ATP tennis player best ranked 1000 worldwide.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
